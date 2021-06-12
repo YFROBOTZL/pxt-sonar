@@ -4,11 +4,16 @@
     "description": "A MakeCode package to use sonar sensors",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "microphone": "*"
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/zh-cn/pxt-sonar-strings.json",
+        "_locales/zh-cn/pxt-sonar-jsdoc-strings.json",
+        "_locales/zh-tw/pxt-sonar-strings.json",
+        "_locales/zh-tw/pxt-sonar-jsdoc-strings.json"
     ],
     "testFiles": [
         "test.ts"

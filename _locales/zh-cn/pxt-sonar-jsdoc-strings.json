@@ -1,0 +1,8 @@
+{
+  "sonar": "超声波测距",
+  "sonar.ping": "发送ping并获得回声时间结果（以微秒为单位）",
+  "sonar.ping|param|echo": "echo引脚",
+  "sonar.ping|param|maxCmDistance": "最大距离单位cm(默认500)",
+  "sonar.ping|param|trig": "tigger引脚",
+  "sonar.ping|param|unit": "转换单位"
+}

@@ -1,0 +1,8 @@
+{
+  "PingUnit.Centimeters|block": "cm",
+  "PingUnit.Inches|block": "inches",
+  "PingUnit.MicroSeconds|block": "μs",
+  "sonar.ping|block": "超声波测距trig引脚%trig|echo引脚%echo|单位%unit",
+  "sonar|block": "sonar",
+  "{id:category}Sonar": "Sonar"
+}
